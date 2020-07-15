@@ -1,6 +1,6 @@
 my:
-  greeting: hello world
-  name: Baba
+  greeting: hello world from config server
+  name: Baba from config server
   
 db:
   uri: test-uri
