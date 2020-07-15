@@ -1,0 +1,7 @@
+my:
+  greeting: hello world
+  name: Baba
+db:
+  uri:test-uri
+  host:127.0.0.1
+  port:2020
